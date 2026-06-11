@@ -43,14 +43,6 @@ Welcome to my GitHub profile! I'm a Computer Science student who loves building 
   Research focused on machine learning applications, challenges, and future opportunities across industries.
 
 
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rupinderkaur9b9309&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rupinderkaur9b9309&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupinderkaur9b9309&theme=dark&hide_border=false&layout=compact)
-
 ## 🚀 Explore My Work
 
 Welcome to my GitHub profile! Here you'll find my projects, coding journey, and contributions in web development, C++, and AI.
